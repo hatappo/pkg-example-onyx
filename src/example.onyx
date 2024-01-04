@@ -1,3 +1,5 @@
+package example.onyx.hello
+
 use core {*}
 
 hello :: (s := "foo") {
