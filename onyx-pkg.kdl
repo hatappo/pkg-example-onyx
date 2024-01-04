@@ -1,0 +1,13 @@
+package {
+    name "example-onyx-hello" 
+    author "Fumihiko Hata" 
+    url "https://github.com/hatappo/pkg-example-onyx.git" 
+    description "An example package" 
+    version "0.0.2" 
+}
+
+config {
+    dependency_source_path "./lib" 
+    dependency_binary_path "./bin" 
+}
+
