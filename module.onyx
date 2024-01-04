@@ -1,0 +1,3 @@
+package example.onyx.hello
+
+#load_all "./src"

@@ -1,0 +1,11 @@
+# Mac
+.DS_Store
+
+# vscode
+!/.vscode/*
+
+# wasm
+*.wasm
+*.wat
+
+# Onyx

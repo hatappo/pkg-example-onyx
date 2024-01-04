@@ -3,7 +3,7 @@ package {
     author "Fumihiko Hata" 
     url "https://github.com/hatappo/pkg-example-onyx.git" 
     description "An example package" 
-    version "0.0.2" 
+    version "0.0.1" 
 }
 
 config {
