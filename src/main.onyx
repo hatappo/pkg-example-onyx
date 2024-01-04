@@ -1,5 +1,9 @@
 use core {*}
 
+hello :: (s := "foo") {
+    printf("Hello, {}\n", s);
+}
+
 main :: () {
-    println("Hello, World!");
+    hello();
 }
